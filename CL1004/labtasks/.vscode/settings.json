@@ -1,0 +1,63 @@
+{
+    "workbench.colorTheme": "Monokai Night",
+   "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "source", 
+          "meta", 
+          "keyword", 
+          "comment", 
+          "string", 
+          "variable", 
+          "function", 
+          "type", 
+          "operator", 
+          "number", 
+          "punctuation", 
+          "meta.preprocessor", 
+          "meta.preprocessor.include",
+          "entity.name.function",
+          "entity.name.type",
+          "entity.other.inherited-class",
+          "entity.other.attribute-name",
+          "entity.name.tag",
+          "storage",
+          "storage.type",
+          "storage.modifier",
+          "support",
+          "support.function",
+          "support.type",
+          "support.constant",
+          "support.variable",
+          "variable.language",
+          "constant.numeric",
+          "variable.parameter"
+        ],
+        "settings": {
+          "foreground": "#FFFFFF"
+        }
+      }
+    ]
+  },
+    "workbench.colorCustomizations": {
+      "editor.foreground": "#FFFFFF",
+      "editor.selectionBackground": "#000000",
+      "editor.lineHighlightBackground": "#000000",
+      "editorCursor.foreground": "#FFFFFF"
+    },
+    "editor.semanticHighlighting.enabled": false,
+    "[cpp]": {
+      "editor.semanticHighlighting.enabled": false
+    },
+    "[cuda-cpp]": {
+      "editor.semanticHighlighting.enabled": false
+    },
+    "[c]": {
+      "editor.semanticHighlighting.enabled": false
+    },
+    "workbench.settings.applyToAllProfiles": [
+      "editor.semanticHighlighting.enabled"
+    ],
+    "editor.bracketPairColorization.enabled": false
+  }
