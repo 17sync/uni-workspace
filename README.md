@@ -7,6 +7,7 @@ An archive for my programming assignments and labtasks. This repo not only allow
 **CS1004** // **CL1004** - **Object Oriented Programming** (OOP)<br>
 **CS2001** // **CL2001** - **Data Structures** (DS)<br>
 **EL2003** - **Computer Organization and Assembly Language** (COAL)
+**CS2006** // **CL2006** - **Operating Systems** (OS)<br>
 
 ---
 
