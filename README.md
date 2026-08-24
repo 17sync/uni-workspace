@@ -26,3 +26,7 @@ EL2003 - Computer Organization and Assembly Language
 CS2006 / CL2006 - Operating Systems
 Note: No folder for Database Systems since most submissions were just screenshots of the output
 ```
+### Semester 5
+```
+AI2002 / AL2002 - Artifical Intelligence
+```
